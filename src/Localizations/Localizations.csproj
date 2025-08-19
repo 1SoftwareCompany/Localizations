@@ -5,16 +5,16 @@
 
   <!--Nuget-->
   <PropertyGroup>
-    <PackageId>Localizations</PackageId>
-    <Product>Localizations</Product>
-    <Title>Localizations</Title>
-    <Authors>Elders OSS</Authors>
-    <Copyright>Copyright © Elders OSS 2013-2022</Copyright>
+    <PackageId>One.Localizations</PackageId>
+    <Product>One.Localizations</Product>
+    <Title>One.Localizations</Title>
+    <Authors>1Software</Authors>
+    <Copyright>Copyright © 1Software</Copyright>
     <Description>Localization abstractions</Description>
-    <PackageTags>elders localization translation locale </PackageTags>
-    <PackageLicenseUrl>https://github.com/Elders/Localizations/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/Elders/Localizations</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Elders/Localizations.git</RepositoryUrl>
+    <PackageTags>1software localization translation locale </PackageTags>
+    <PackageLicenseUrl>https://github.com/1SoftwareCompany/Localizations/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/1SoftwareCompany/Localizations</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/1SoftwareCompany/Localizations.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <AssemblyName>Localizations</AssemblyName>
